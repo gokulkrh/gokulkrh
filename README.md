@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+[![Gokul's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokulkrh&show_icons=true&theme=holi&hide=issues)](https://github.com/gokulkrh)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulkrh&theme=dark&hide=css,html&hide_progress=true)](https://github.com/gokulkrh/)
+
 <!--
 **gokulkrh/gokulkrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
