@@ -5,6 +5,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulkrh&theme=dark&hide=css,html&hide_progress=true)](https://github.com/gokulkrh/)
 
+[![views](https://visitcount.itsvg.in/api?id=gokulkrh&label=Profile%20Views&color=1&icon=3&pretty=false)](https://visitcount.itsvg.in)
+
 <!--
 **gokulkrh/gokulkrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
