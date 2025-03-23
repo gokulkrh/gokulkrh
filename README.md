@@ -1,38 +1,43 @@
-### 👾 Gokul Krishnan G - Level 60 DevLord - Architect of scalable systems
+### 👾 Gokul Krishnan G - Level 60 DevLord - Architect of Scalable Systems
 
-### 🧙‍♂️ Player Info
+
+### 🦸 Player Info
 
 | __Attribute__    | __Value__ |
 | -------- | ------- |
-| Class  | Software Engineer ⚔️    |
-| Level | 60 (Designer of scalable systems)     |
+| Class  | Software Engineer    |
+| Level | 60 (Architect of Scalable Systems)     |
 | Primary Weapon    | Acer Predator 16 - windows + pop os    |
 | Secondary Weapon    | Apple Macbook Pro    |
 
 
-### 🎯 Skills
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Fullstack Web Development
-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Rva3kyZXJxc2o5ODdreW9kYWhieTl2cGptcTMzM2d1ZHpncjM4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S3thLnRWEpRwq6iDIO/giphy.gif" width="30"> Game Development
-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzUzcTZidDRzZmNwMWIyYThkejdtZzc1NWNjZ2xpYXZxZ2Rkc29tZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d31vTpVi1LAcDvdm/giphy.gif" width="30"> Graphics, Animation, Digital art
-
-### 🏹 Loadout
+### ⚒️ Skills & Inventory
+- Core Abilities
+    - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Fullstack Web Development
+    - <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Rva3kyZXJxc2o5ODdreW9kYWhieTl2cGptcTMzM2d1ZHpncjM4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S3thLnRWEpRwq6iDIO/giphy.gif" width="30"> Game Development
+    - <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzUzcTZidDRzZmNwMWIyYThkejdtZzc1NWNjZ2xpYXZxZ2Rkc29tZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d31vTpVi1LAcDvdm/giphy.gif" width="30"> Graphics, Animation, Digital art
 - Programming Languages
-    - Golang, Python, Javascript/Typescript, C#, SQL 
+    - <img src="https://skillicons.dev/icons?i=golang" width="25"/>, <img src="https://skillicons.dev/icons?i=python" width="25"/>, <img src="https://skillicons.dev/icons?i=javascript" width="25"/>, <img src="https://skillicons.dev/icons?i=typescript" width="25"/>, <img src="https://skillicons.dev/icons?i=cs" width="25"/>, <img src="https://skillicons.dev/icons?i=java" width="25"/>
+- Game Development
+    - <img src="https://skillicons.dev/icons?i=unity" width="25"/>, <img src="https://skillicons.dev/icons?i=godot" width="25"/>, <img src="https://skillicons.dev/icons?i=blender" width="25"/>, <img src="https://skillicons.dev/icons?i=ps" width="25"/>
 - Web Development
   - Frontend
-      - React, Angular, ThreeJS, HTML, CSS
+      - <img src="https://skillicons.dev/icons?i=react" width="25"/>, <img src="https://skillicons.dev/icons?i=redux" width="25"/>, <img src="https://skillicons.dev/icons?i=angular" width="25"/>, <img src="https://skillicons.dev/icons?i=threejs" width="25"/>, <img src="https://skillicons.dev/icons?i=html" width="25"/>, <img src="https://skillicons.dev/icons?i=css" width="25"/>, <img src="https://skillicons.dev/icons?i=tailwind" width="25"/>
   - Backend/FullStack
-      - Gin, ExpressJS, NodeJS, Django, Flask, NextJS
-  - Databases
-      - PostgreSQL, MySQL/MariaDB, SQlite, Redis 
-  - DevOps
-      - Jenkins, Github Actions, Docker, Kubernetes
-  - Cloud Services
-      - AWS EC2, Lightsail, NewRelic
-- Game Development
-    - Unity, Godot, Blender, GIMP
+      - <img src="https://skillicons.dev/icons?i=golang" width="25"/>, <img src="https://skillicons.dev/icons?i=nodejs" width="25"/>, <img src="https://skillicons.dev/icons?i=django" width="25"/>, <img src="https://skillicons.dev/icons?i=flask" width="25"/>, <img src="https://skillicons.dev/icons?i=nextjs" width="25"/>, <img src="https://skillicons.dev/icons?i=dotnet" width="25"/>, <img src="https://skillicons.dev/icons?i=postman" width="25"/>
+- Databases
+      - <img src="https://skillicons.dev/icons?i=postgres" width="25"/>, <img src="https://skillicons.dev/icons?i=mysql" width="25"/>, <img src="https://skillicons.dev/icons?i=sqlite" width="25"/>, <img src="https://skillicons.dev/icons?i=redis" width="25"/> 
+- DevOps
+      - <img src="https://skillicons.dev/icons?i=jenkins" width="25"/>, <img src="https://skillicons.dev/icons?i=githubactions" width="25"/>, <img src="https://skillicons.dev/icons?i=docker" width="25"/>, <img src="https://skillicons.dev/icons?i=kubernetes" width="25"/>
+- Cloud Services
+      - <img src="https://skillicons.dev/icons?i=aws" width="25"/>
 
-### Stats
+<!-- - AI/ML
+    - <img src="https://skillicons.dev/icons?i=tensorflow" width="25"/>, <img src="https://skillicons.dev/icons?i=opencv" width="25"/>, <img src="https://skillicons.dev/icons?i=pytorch" width="25"/> -->
+
+### 📊 Player Stats
+[![Gokul's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokulkrh&show_icons=true&theme=holi&hide=issues)](https://github.com/gokulkrh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulkrh&theme=dark&layout=compact&hide_title=1)](https://github.com/gokulkrh/)
 <!--
 ### Hello World, I'm Gokul 👋
 
