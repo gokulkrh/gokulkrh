@@ -7,7 +7,7 @@
 | -------- | ------- |
 | Class  | Software Engineer    |
 | Level | 60 (Architect of Scalable Systems)     |
-| Primary Weapon    | Acer Predator 16 - windows + pop os    |
+| Primary Weapon    | Acer Predator 16 - windows + ubuntu    |
 | Secondary Weapon    | Apple Macbook Pro    |
 
 
