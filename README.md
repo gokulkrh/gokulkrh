@@ -8,7 +8,7 @@
 | Class  | Software Engineer    |
 | Level | 60 (Architect of Scalable Systems)     |
 | Primary Weapon    | Acer Predator 16 - windows + ubuntu    |
-| Secondary Weapon    | Apple Macbook Pro    |
+| Potions Unlocked    | Coffee, RedBull    |
 
 
 ### ⚒️ Skills & Inventory
@@ -32,12 +32,10 @@
 - Cloud Services
       - <img src="https://skillicons.dev/icons?i=aws" width="25"/>
 
-<!-- - AI/ML
-    - <img src="https://skillicons.dev/icons?i=tensorflow" width="25"/>, <img src="https://skillicons.dev/icons?i=opencv" width="25"/>, <img src="https://skillicons.dev/icons?i=pytorch" width="25"/> -->
-
 ### 📊 Player Stats
 [![Gokul's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokulkrh&show_icons=true&theme=holi&hide=issues)](https://github.com/gokulkrh)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulkrh&theme=dark&layout=compact&hide_title=1)](https://github.com/gokulkrh/)
+
 <!--
 ### Hello World, I'm Gokul 👋
 
