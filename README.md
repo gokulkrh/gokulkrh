@@ -17,7 +17,7 @@
     - <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Rva3kyZXJxc2o5ODdreW9kYWhieTl2cGptcTMzM2d1ZHpncjM4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S3thLnRWEpRwq6iDIO/giphy.gif" width="30"> Game Development
     - <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzUzcTZidDRzZmNwMWIyYThkejdtZzc1NWNjZ2xpYXZxZ2Rkc29tZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d31vTpVi1LAcDvdm/giphy.gif" width="30"> Graphics, Animation, Digital art
 - Programming Languages
-    - <img src="https://skillicons.dev/icons?i=golang" width="25"/>, <img src="https://skillicons.dev/icons?i=python" width="25"/>, <img src="https://skillicons.dev/icons?i=javascript" width="25"/>, <img src="https://skillicons.dev/icons?i=typescript" width="25"/>, <img src="https://skillicons.dev/icons?i=cs" width="25"/>, <img src="https://skillicons.dev/icons?i=java" width="25"/>
+    - <img src="https://skillicons.dev/icons?i=golang" width="25"/>, <img src="https://skillicons.dev/icons?i=python" width="25"/>, <img src="https://skillicons.dev/icons?i=javascript" width="25"/>, <img src="https://skillicons.dev/icons?i=typescript" width="25"/>, <img src="https://skillicons.dev/icons?i=cs" width="25"/>
 - Game Development
     - <img src="https://skillicons.dev/icons?i=unity" width="25"/>, <img src="https://skillicons.dev/icons?i=godot" width="25"/>, <img src="https://skillicons.dev/icons?i=blender" width="25"/>, <img src="https://skillicons.dev/icons?i=ps" width="25"/>
 - Web Development
