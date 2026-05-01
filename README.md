@@ -22,9 +22,9 @@
     - <img src="https://skillicons.dev/icons?i=unity" width="25"/>, <img src="https://skillicons.dev/icons?i=godot" width="25"/>, <img src="https://skillicons.dev/icons?i=blender" width="25"/>, <img src="https://skillicons.dev/icons?i=ps" width="25"/>
 - Web Development
   - Frontend
-      - <img src="https://skillicons.dev/icons?i=react" width="25"/>, <img src="https://skillicons.dev/icons?i=redux" width="25"/>, <img src="https://skillicons.dev/icons?i=angular" width="25"/>, <img src="https://skillicons.dev/icons?i=threejs" width="25"/>, <img src="https://skillicons.dev/icons?i=html" width="25"/>, <img src="https://skillicons.dev/icons?i=css" width="25"/>, <img src="https://skillicons.dev/icons?i=tailwind" width="25"/>
+      - <img src="https://skillicons.dev/icons?i=react" width="25"/>, <img src="https://skillicons.dev/icons?i=threejs" width="25"/>, <img src="https://skillicons.dev/icons?i=html" width="25"/>, <img src="https://skillicons.dev/icons?i=css" width="25"/>
   - Backend/FullStack
-      - <img src="https://skillicons.dev/icons?i=golang" width="25"/>, <img src="https://skillicons.dev/icons?i=nodejs" width="25"/>, <img src="https://skillicons.dev/icons?i=django" width="25"/>, <img src="https://skillicons.dev/icons?i=flask" width="25"/>, <img src="https://skillicons.dev/icons?i=nextjs" width="25"/>, <img src="https://skillicons.dev/icons?i=dotnet" width="25"/>, <img src="https://skillicons.dev/icons?i=postman" width="25"/>
+      - <img src="https://skillicons.dev/icons?i=golang" width="25"/>, <img src="https://skillicons.dev/icons?i=nodejs" width="25"/>, <img src="https://skillicons.dev/icons?i=django" width="25"/>, <img src="https://skillicons.dev/icons?i=flask" width="25"/>, <img src="https://skillicons.dev/icons?i=nextjs" width="25"/>, <img src="https://skillicons.dev/icons?i=postman" width="25"/>
 - Databases
       - <img src="https://skillicons.dev/icons?i=postgres" width="25"/>, <img src="https://skillicons.dev/icons?i=mysql" width="25"/>, <img src="https://skillicons.dev/icons?i=sqlite" width="25"/>, <img src="https://skillicons.dev/icons?i=redis" width="25"/> 
 - DevOps
