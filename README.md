@@ -7,7 +7,7 @@
 | -------- | ------- |
 | Class  | Software Engineer    |
 | Level | 60 (Architect of Scalable Systems)     |
-| Primary Weapon    | Acer Predator 16 - windows + ubuntu    |
+| Primary Weapon    | Acer Predator 16 - Endeavour OS    |
 | Potions Unlocked    | Coffee, RedBull    |
 
 
